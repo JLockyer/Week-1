@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO\ConsoleIO\bin\Debug\ConsoleIO.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO\ConsoleIO\obj\Debug\ConsoleIO.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO\ConsoleIO\bin\Debug\ConsoleIO.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO\ConsoleIO\bin\Debug\ConsoleIO.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO\ConsoleIO\obj\Debug\ConsoleIO.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO\ConsoleIO\obj\Debug\ConsoleIO.pdb

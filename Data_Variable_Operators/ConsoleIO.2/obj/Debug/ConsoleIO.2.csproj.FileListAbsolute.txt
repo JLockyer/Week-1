@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO.2\ConsoleIO.2\bin\Debug\ConsoleIO.2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO.2\ConsoleIO.2\bin\Debug\ConsoleIO.2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO.2\ConsoleIO.2\bin\Debug\ConsoleIO.2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO.2\ConsoleIO.2\obj\Debug\ConsoleIO.2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO.2\ConsoleIO.2\obj\Debug\ConsoleIO.2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleIO.2\ConsoleIO.2\obj\Debug\ConsoleIO.2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Data_Variable_Operators\ConsoleIO.2\bin\Debug\ConsoleIO.2.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Data_Variable_Operators\ConsoleIO.2\obj\Debug\ConsoleIO.2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Data_Variable_Operators\ConsoleIO.2\obj\Debug\ConsoleIO.2.pdb

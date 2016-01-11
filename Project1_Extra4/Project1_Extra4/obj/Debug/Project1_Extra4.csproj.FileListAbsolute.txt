@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project1_Extra4\Project1_Extra4\bin\Debug\Project1_Extra4.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project1_Extra4\Project1_Extra4\obj\Debug\Project1_Extra4.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project1_Extra4\Project1_Extra4\bin\Debug\Project1_Extra4.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project1_Extra4\Project1_Extra4\bin\Debug\Project1_Extra4.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project1_Extra4\Project1_Extra4\obj\Debug\Project1_Extra4.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project1_Extra4\Project1_Extra4\obj\Debug\Project1_Extra4.pdb
